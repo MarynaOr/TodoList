@@ -1,0 +1,11 @@
+.link{
+    color: antiquewhite;
+    font-size: 22px;
+    padding: 0 4px;
+}
+
+.active{
+    color: rgb(109, 12, 12);
+    font-size: 23px;
+}
+

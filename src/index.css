@@ -1,0 +1,15 @@
+body{
+    background-image: url(../public/bgi.jpg);
+      background-size: cover; /* Зображення покриває весь екран */
+      background-position: center; /* Зображення вирівняне по центру */
+      background-repeat: no-repeat; /* Зображення не повторюється */
+      overflow-x: hidden;
+      margin: 0 auto;
+      padding: 0 12px;
+    }
+  
+    @import "tailwindcss";
+    
+
+
+
